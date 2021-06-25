@@ -15,7 +15,7 @@ class FilterService
 
     /** @var iFilter[] */
     private array $filters = [];
-    
+
     /**
      * @param string $filterClassName
      * @return iFilter
