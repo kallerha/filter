@@ -19,5 +19,5 @@
       "FluencePrototype\\Filter\\": "src/"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
